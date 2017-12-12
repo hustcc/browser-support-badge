@@ -1,0 +1,19 @@
+{
+    "name" : "browser-support-badge",
+    "version" : "0.0.1",
+    "description" : "generate browser version compatibility badges",
+    "main" : "index.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/hustcc/browser-support-badge.git"
+    },
+    "homepage" : "http://git.hust.cc/browser-support-badge",
+    "keywords" : [
+        "browser",
+        "badge",
+        "png",
+        "compatibility",
+        "version"
+    ],
+    "license" : "MIT"
+}
